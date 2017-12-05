@@ -1,0 +1,3 @@
+# add the following to ~/.bash_profile
+alias sublimeCurrDir='/Users/Greg/code/scripts/mac/sublimeForCurrDir.sh'
+

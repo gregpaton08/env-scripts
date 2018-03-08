@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-
-/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl . -n
-
